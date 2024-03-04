@@ -2,7 +2,6 @@ import React from 'react';
 import { StyleSheet, Text, View, Image } from 'react-native';
 import { Feather } from '@expo/vector-icons';
 
-
 const TopBar = () => {
     return (
         <View style={styles.header}>

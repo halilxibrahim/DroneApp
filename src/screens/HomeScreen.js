@@ -1,13 +1,13 @@
 import React from 'react';
-import { StyleSheet, SafeAreaView, Text, View, Image } from 'react-native';
-import { Feather } from '@expo/vector-icons';
+import { StyleSheet, SafeAreaView } from 'react-native';
 import TopBar from '../components/TopBar';
-
+import MainContent from '../components/MainContent';
 
 const HomeScreen = () => {
   return (
     <SafeAreaView style={styles.container}> 
       <TopBar/>
+      <MainContent/>
     </SafeAreaView>
   );
 }
@@ -15,7 +15,7 @@ const HomeScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#FAFAFA',
+    backgroundColor: '#D6E6F2',
   },
 });
 
