@@ -2,6 +2,9 @@
 
 This mobile application is developed using Expo and React Native to visualize data collected from drones. The app provides real-time information such as drone speed, wind intensity, altitude, and other essential metrics.
 
+<img width="391" alt="Ekran Resmi 2024-03-05 19 22 39" src="https://github.com/halilxibrahim/DroneApp/assets/54751699/439ce274-2af3-4733-bf99-fcb8938222eb">
+<img width="391" alt="Ekran Resmi 2024-03-05 19 22 44" src="https://github.com/halilxibrahim/DroneApp/assets/54751699/ed10afa1-4cc1-4848-b5cf-1f3fc8455ee5">
+
 ## Features
 
 - **Real-Time Data Display**: Data collected from the drone is displayed instantly on the mobile application.
